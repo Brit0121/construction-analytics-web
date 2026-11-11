@@ -1,0 +1,57 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# Dependencias y caché
+node_modules/
+package-lock.json
+.cache/
+.tmp/
+temp/
+tmp/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Respaldos y paquetes
+*.zip
+*.rar
+*.7z
+*backup*/
+*respaldo*/
+backups/
+
+# Evidencias y capturas
+artifacts/
+evidencias/
+screenshots/
+captures/
+reports/
+mobile_menu_*.png
+header_*_desktop.png
+header_*_mobile*.png
+animacion_frame_*.png
+animacion_header_*.gif
+validacion_*.png
+desktop_*_full.png
+seccion_*_proposito.png
+tarjetas_capacitacion.png
+contacto_con_mapa.png
+
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo

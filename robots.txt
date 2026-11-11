@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://construction-analytics.online/sitemap.xml
