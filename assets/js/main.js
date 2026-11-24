@@ -263,7 +263,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       // Mensaje de estado informativo y transparente (sin afirmar guardado en base de datos)
       showStatus(
-        'Abriendo WhatsApp con tu consulta estructurada para completar el envío directo a nuestro equipo (+51 993 463 118)...',
+        'Abriendo WhatsApp con tu consulta estructurada para completar el envío directo a nuestro equipo...',
         'info'
       );
 

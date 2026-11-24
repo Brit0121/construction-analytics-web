@@ -4,8 +4,8 @@ Sitio web institucional multipágina con arquitectura plana para **Construction 
 
 - **Dominio oficial:** [https://construction-analytics.online/](https://construction-analytics.online/)
 - **Correo oficial:** commercial@construction-analytics.online
-- **Teléfono y WhatsApp:** +51 993 463 118
-- **Número para enlaces WhatsApp:** `51993463118`
+- **Canal de atención directa:** Canal oficial de WhatsApp
+- **Número para enlaces técnicos WhatsApp:** `51993463118`
 - **Dirección física:** Av. Javier Prado 757, piso 10, Magdalena, Lima 17, Perú
 - **Año:** 2026
 
